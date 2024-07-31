@@ -24,3 +24,4 @@ comandos:
 
 - git commit -m "Texto del comentario"
 - git diff index.html                                 (para ver los cambios en ese archivo en especifico)
+- git restore --source "hash-de-version" index.html   (hash de laversion - archivo de la version, esto vuelve a una vesion pasada)
