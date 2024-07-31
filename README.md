@@ -23,3 +23,4 @@ comandos:
 - git push                                            (Envia los cambios delrepositorio local al remoto)
 
 - git commit -m "Texto del comentario"
+- git diff index.html                                 (para ver los cambios en ese archivo en especifico)
