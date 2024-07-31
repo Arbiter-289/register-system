@@ -25,3 +25,10 @@ comandos:
 - git commit -m "Texto del comentario"
 - git diff index.html                                 (para ver los cambios en ese archivo en especifico)
 - git restore --source "hash-de-version" index.html   (hash de laversion - archivo de la version, esto vuelve a una vesion pasada)
+
+/*Comandos para crear ramificaciones*/
+
+- git branch                                          (Muestra las ramificaciones existentes y tambien en la que estas posicionado)
+- git checkout -b desarrollo                          (Para crear una nueva ramificacion)
+- git switch main                                     (Para swichearte entre las ramificaciones)
+
