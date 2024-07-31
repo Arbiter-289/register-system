@@ -31,4 +31,5 @@ comandos:
 - git branch                                          (Muestra las ramificaciones existentes y tambien en la que estas posicionado)
 - git checkout -b desarrollo                          (Para crear una nueva ramificacion)
 - git switch main                                     (Para swichearte entre las ramificaciones)
-
+- git merge desarrollo                                (Debes estar posicionado en una rama la cual quieres que cambie, luego apuntas a la rama que quieras)
+- git push origin main                                (subir los cambios pero esta vez especificando la rama)
