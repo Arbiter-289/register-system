@@ -15,3 +15,8 @@ git log -p                                          (no idea)
 git log --since=1.month.ago --until=1.day.ago       (no idea)
 git log --pretty="format:%h %s"                     (no idea)
 git pull                                            (para verificar si estamos actualizados)
+
+/*IMPORTANTES*/
+git status                                        (Verifica si el repositorio local es igual al remoto, de no ser asi, notifica)
+git add .                                         (Si un archivo es creado de forma local, lo añade)
+git push                                          (Envia los cambios delrepositorio local al remoto)
